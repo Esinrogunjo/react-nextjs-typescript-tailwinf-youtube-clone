@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@mantine/core": "^4.1.4",
+    "@mantine/dropzone": "^4.1.4",
+    "@mantine/hooks": "^4.1.4",
+    "@mantine/next": "^4.1.4",
+    "@mantine/notifications": "^4.1.4",
+    "axios": "^0.26.1",
+    "react-query": "^3.37.0",
+    "tabler-icons-react": "^1.46.0"
+  }
+}
